@@ -10,7 +10,7 @@
 ---
 
 
-<table border="0">
+<center><table border="0">
   <tr>
     <td width="300" valign="top">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlhNDYwNzA0ODlhYWMzOGQ4NjViNWUyYTQwYWZlZTlmN2ViZThkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Illustration" width="100%"/>
@@ -19,7 +19,7 @@
       <p>🚀 Hola, me llamo Daniel. Soy estudiante de informática y apasionado hacia ella. Me gustan las redes y la programación.</p>
     </td>
   </tr>
-</table>
+<center/></table>
 
 
 ---
